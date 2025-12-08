@@ -16,7 +16,6 @@ This ML project includes:
 I have received an accuracy for 83.2% by this model.
 
 # Project Structure
-📁 project-folder/
 │── churn_predictor.py     # Main ML code
 │── data.csv               # Kaggle dataset
 │── README.md              # Documentation
